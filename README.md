@@ -40,7 +40,14 @@ Além disso, em vez de utilizar um `alert()` padrão do navegador, implementei a
 
 2. **Abrir no navegador:**  
    - Clique duas vezes no arquivo `index.html`  
-   - Ou arraste o arquivo `index.html` para o navegador  
+   - Ou arraste o arquivo `index.html` para o navegador
+
+
+📷 Visualização do Projeto
+<div align="left"> <img src="https://github.com/user-attachments/assets/a80a4255-aedd-47cf-9d44-f1a8f224634d" width="130"> <img src="https://github.com/user-attachments/assets/b64773d4-c09e-4890-aba6-9861788375eb" width="200"> <img src="https://github.com/user-attachments/assets/11e99a97-8eb5-4bff-b16e-bb2d0196984a" width="230"> </div>
+🔗 Clique nas imagens para ampliar!
+
+---
 
 📎 Link do Repositório  
 🔗 [GitHub - thiagofjau/processo-seletivo](https://github.com/thiagofjau/processo-seletivo)  
