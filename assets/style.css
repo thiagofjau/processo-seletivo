@@ -86,13 +86,14 @@ button:hover {
     background-color: var(--color-azulClaro-hover) !important;
 }
 
-
 /* Responsividade Tablet */
 @media (max-width: 1080px) {
     body {
         flex-direction: column;
     }
-
+    .custom-swal {
+        max-width: 50%;
+    }
     .logo {
         width: 300px;
         margin: 20px auto 20px auto;
@@ -126,6 +127,10 @@ button:hover {
     input {
         max-width: 90%;
     }
+
+    .custom-swal {
+        width: 300px !important; /* Ajuste para dispositivos móveis */
+    }
 }
 
 /* Responsividade mobile 2 */
@@ -143,5 +148,9 @@ button:hover {
 
     input {
         max-width: 80%;
+    }
+
+    .custom-swal {
+        width: 250px !important; /* Ajuste para telas muito pequenas */
     }
 }

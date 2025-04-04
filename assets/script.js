@@ -48,6 +48,9 @@ document
         html: `<strong>Nome:</strong> ${nome}<br><strong>E-mail:</strong> ${email}<br><strong>Senha:</strong> ${senha}`,
         icon: "success",
         confirmButtonText: "OK",
+        customClass: {
+          popup: "custom-swal",
+        },
       }).then(() => {
         location.reload();
       });
